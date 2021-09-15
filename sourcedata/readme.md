@@ -1,4 +1,4 @@
-# Sourcedata
+# Source Data
 
 ### Instructions
 **If pulling data from a public repository**
