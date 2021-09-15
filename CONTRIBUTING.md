@@ -31,7 +31,6 @@ project-name
     ├──results-check
 ├── derivatives
     ├──preprocessed
-├── lab-notebook.md
 ├── literature
 ├── materials
     ├──questionnaires
@@ -39,6 +38,7 @@ project-name
           ├──protocol.md
           ├──scripts
           ├──stimuli
+├── notebook.md
 ├── README.md
 ├── sourcedata
     ├──checked
