@@ -1,6 +1,6 @@
 ---
 name: 🎁 Merge to Main Template"
-about: Create a PR for a merge into the dev branch. 
+about: Create a PR for a merge into the main branch. 
 title: ''
 labels: ''
 assignees: ''
