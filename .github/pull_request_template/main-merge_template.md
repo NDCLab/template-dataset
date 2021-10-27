@@ -9,7 +9,7 @@ assignees: ''
 
 :point_right: Read the instructions marked with this emoji to guide use of this template. Before submission, delete all the guidance text.
 
-## Epics(s) Completed 
+## Epic(s) Completed 
 :point_right: A bulleted list of Epics that will be complete with the merge of this pull request.
 
 ## Checklist
