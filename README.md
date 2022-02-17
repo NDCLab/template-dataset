@@ -19,7 +19,7 @@ This `main` branch contains completed releases for this project. For all work-in
 
 
 ## Contributors
-| Name | Role |
+| Role | Name |
 | ---  | ---  |
 | insert team member | add team member's role |
 | insert team member | add team member's role |
